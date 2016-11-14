@@ -7,7 +7,7 @@ public class PushPrint {
 		System.out.println("Add Java Class File Push");
 		System.out.println("World with 365");
 		System.out.println("world with local");
-		
+		System.out.println("World with remote");
 	}
 
 }
